@@ -6,11 +6,15 @@
       "content" : "My first content!"
     }
   ],
-  "comments" : [
+  "Produtos" : [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id" : 1,
+      "item" : "Disco de disbasto",
+      "preco" : 10,
+      "nameLoja" : "Flormital",
+      "telefone" : "81984417557",
+      "nameVend" : "Flor",
+      "endereco" : "Rua Alemanha 320, sucupira"
     }
   ]
 }
