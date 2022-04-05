@@ -13,5 +13,12 @@
       "id" : 1,
       "nome" : "fipe"
     }
+  ],
+  "marcas":[
+    {
+      "id" : 1,
+      "nome": "Ford",
+      "tabela" : "fipe"
+    }
   ]
 }
