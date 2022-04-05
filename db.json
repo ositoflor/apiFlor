@@ -1,20 +1,17 @@
 {
-  "usuarios":[
+  "pessoas":[
     {
       "id" : 1,
-      "nome": "adm",
-      "senha" : "1234567"
+      "nome": "Osito",
+      "email" : "netoviana16@hotmail.com",
+      "contato" : "81984417557",
+      "cidade" : "Recife"
     }
   ],
-  "Produtos" : [
+  "tabela" : [
     {
       "id" : 1,
-      "item" : "Disco de disbasto",
-      "preco" : 10,
-      "nameLoja" : "Flormital",
-      "telefone" : "81984417557",
-      "nameVend" : "Flor",
-      "endereco" : "Rua Alemanha 320, sucupira"
+      "nome" : "fipe"
     }
   ]
 }
