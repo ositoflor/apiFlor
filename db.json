@@ -20,5 +20,13 @@
       "nome": "Ford",
       "tabela" : "fipe"
     }
+  ],
+  "modelos":[
+    {
+      "id" : 0,
+      "modelo": "X5",
+      "tabela" : "fipe",
+      "marca": "BMW"
+    }
   ]
 }
