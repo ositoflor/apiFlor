@@ -28,5 +28,17 @@
       "tabela" : "fipe",
       "marca": "BMW"
     }
+  ],
+   "versao":[
+    {
+      "id" : 0,
+      "modelo": "Polo",
+      "tabela" : "fipe",
+      "marca": "Volkswagen",
+      "combustivel": "Flex Alcool/Gasolina",
+      "verssao": "Polo 1.0 MPI 2022",
+      "portas": 4,
+      "vidros": "sim"
+    }
   ]
 }
