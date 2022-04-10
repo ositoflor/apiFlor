@@ -38,7 +38,8 @@
       "combustivel": "Flex Alcool/Gasolina",
       "verssao": "Polo 1.0 MPI 2022",
       "portas": 4,
-      "vidros": "sim"
+      "vidros": "sim", 
+      "preco": "80.000.00"
     }
   ]
 }
