@@ -41,5 +41,14 @@
       "vidros": "sim", 
       "preco": "80.000.00"
     }
+  ],
+  "produtos":[
+    {
+      "id": 0,
+      "produto": "Discor de corte 1mm",
+      "prerco": 100,
+      "loja": "Arcelormittal",
+      "peso": 1
+    }
   ]
 }
