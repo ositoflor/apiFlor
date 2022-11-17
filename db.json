@@ -42,6 +42,14 @@
       "preco": "80.000.00"
     }
   ],
+  "todo":[
+    {
+      "id" : 0,
+      "title" : "Olá",
+      "priority" : 4,
+      "is_done" : ture,
+    }
+  ],
   "produtos":[
     {
       "id": 0,
