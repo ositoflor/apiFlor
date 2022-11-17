@@ -47,7 +47,7 @@
       "id" : 0,
       "title" : "Olá",
       "priority" : 4,
-      "is_done" : ture,
+      "is_done" : true,
     }
   ],
   "produtos":[
